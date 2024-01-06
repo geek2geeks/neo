@@ -1,0 +1,26 @@
+final project
+├── .gitignore
+├── mysoccerproject
+│   ├── db.sqlite3
+│   ├── manage.py
+│   ├── mysoccerproject
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   ├── wsgi.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── settings.cpython-310.pyc
+│   │       ├── urls.cpython-310.pyc
+│   │       ├── wsgi.cpython-310.pyc
+│   │       └── __init__.cpython-310.pyc
+│   └── videostream
+│       ├── admin.py
+│       ├── apps.py
+│       ├── migrations
+│       │   └── __init__.py
+│       ├── models.py
+│       ├── tests.py
+│       ├── views.py
+│       └── __init__.py
+└── README.md
